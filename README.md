@@ -1,7 +1,7 @@
 # 🧠 Trade Smarter: Analyzing Trader Performance & Market Sentiment
 
 > 📊 A data science project exploring how market **sentiment** influences **trading behavior** and **profitability**  
-> 🧑‍💻 By a Junior Data Scientist passionate about turning raw data into meaningful insights
+> 🧑‍💻 By a aspiring Junior Data Scientist passionate about turning raw data into meaningful insights
 
 ---
 
